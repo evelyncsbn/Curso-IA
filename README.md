@@ -1,49 +1,41 @@
-# Projeto: Introdução à IA Generativa e Aprendizado de Máquina
+# 🧪 Laboratório Prático: Azure Speech Studio e Language Studio
 
-## Descrição do Projeto
+## 💡 Objetivo do Laboratório
 
-Este projeto apresenta conceitos-chave de **Inteligência Artificial (IA) Generativa**, **Aprendizado de Máquina (Machine Learning)** e áreas correlatas, detalhando suas capacidades e componentes estruturais.
+Este projeto é um repositório de anotações e *insights* focado na prática e aprofundamento das ferramentas **Azure Speech Studio** e **Azure Language Studio**.
 
-## Tópicos Principais Abordados
+O objetivo principal é desenvolver habilidades na criação de soluções de Inteligência Artificial (IA) voltadas especificamente para **voz e linguagem**, abrangendo a **análise de fala e linguagem natural**.
 
-### IA Generativa
-Foca na criação de novos conteúdos, como:
-* Geração de linguagem natural (PLN)
-* Geração de código
-* Geração de imagem
+## 📦 Entregável
 
-### Aprendizado de Máquina (Machine Learning - ML)
-Modelo preditivo baseado em dados e estatísticas.
-* **Componentes do ML:**
-    1.  Dados de treinamento
-    2.  Algoritmo
-    3.  Modelo
-    4.  Inferência de dados (Predição)
-* O **Aprendizado Profundo (Deep Learning)** é baseado em redes neurais humanas.
+O resultado deste laboratório é um **repositório organizado** contendo o material de apoio para estudos e futuras implementações.
 
-### Processamento de Linguagem Natural (PLN)
-Capacidade da IA para que um computador interprete a linguagem escrita ou falada e responda.
-* **Aplicações:**
-    * Determinar sentimentos
-    * Resumir texto
-    * Gerar nova linguagem natural
-    * Classificar de outra forma em linguagem natural
-    * Comparar fontes de texto
-* **Modelos de linguagem grandes (LLMs)** usam a estrutura **Transformador**, composta por Codificador e Decodificador.
-* O processo envolve **tokenização** (particionar palavras em unidades de sentido semântico, chamadas 'tokens') e **Inserções** ('Embeddings').
+## 🛠️ Tecnologias e Foco
 
-### Outras Capacidades de IA
-* **Visão Computacional:** Capacidade da IA para interpretar o mundo visualmente por meio de câmeras, vídeos e imagens.
-* **Inteligência de documentos:** Lida com o gerenciamento, processamento e uso de grandes volumes de dados encontrados em fórmulas e documentos.
-* **Mineração de Dados:** Ingerir, enriquecer e explorar dados.
+| Ferramenta / Serviço | Foco Principal |
+| :--- | :--- |
+| **Azure Speech Studio** | Análise e síntese de fala (Speech-to-Text, Text-to-Speech). |
+| **Azure Language Studio** | Análise de linguagem natural (Sentimento, Entidades, Resumos). |
+| **Inteligência Artificial (IA)** | Soluções práticas baseadas em voz e linguagem. |
 
-## Princípios de Segurança e Ética
-A IA deve operar sob princípios como:
-* Imparcialidade
-* Confiabilidade e segurança
-* Inclusão e transparência
-* Responsabilidade
+## 📝 Estrutura do Repositório (Anotações e Insights)
 
-## Recursos Adicionais
-* **Ferramenta mencionada:** Copilot (Gera conteúdos dentro de aplicativos).
-* **Banco de dados de imagens gratuitas:** freepik.
+As anotações e *insights* adquiridos durante a prática devem ser organizados em arquivos específicos ou em seções detalhadas, como:
+
+### 🎤 Módulo 1: Azure Speech Studio
+
+* **Speech-to-Text:** Configurações de modelos, precisão de transcrição e desafios com diferentes sotaques.
+* **Text-to-Speech:** Customização de vozes e *SSML (Speech Synthesis Markup Language)*.
+
+### 💬 Módulo 2: Azure Language Studio
+
+* **Análise de Sentimento:** Resultados de testes com diferentes textos e *insights* sobre a polaridade.
+* **Reconhecimento de Entidade Nomeada (NER):** Como configurar a extração de Pessoas, Locais e Organizações.
+* **Resumo Extrativo e Abstrativo:** Análise da qualidade dos resumos gerados.
+
+## 🔗 Começando
+
+Para replicar este laboratório, você precisará de uma conta no Azure e acesso aos serviços Cognitive Services (Speech e Language).
+
+* [Link para a Documentação Oficial do Azure Speech Studio]
+* [Link para a Documentação Oficial do Azure Language Studio]
